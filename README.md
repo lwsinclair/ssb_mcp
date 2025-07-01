@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/fredrikbakken-ssb-mcp-badge.png)](https://mseep.ai/app/fredrikbakken-ssb-mcp)
+
 # SSB MCP
 
 [Model context protocol (MCP)](https://modelcontextprotocol.io/) for communicating with [Statistics Norway / Statistisk sentralbyrå (SSB)](https://www.ssb.no/).
